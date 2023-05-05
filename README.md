@@ -1,2 +1,2 @@
-# STL-Files
+# STL
 3D model parts
